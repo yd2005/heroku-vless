@@ -5,11 +5,11 @@
     "env": {
         "EMAIL": {
             "description": "Cloudflare email",
-            "value": "email"
+            "value": "irwin.dai@gmail.com"
         },
         "API_KEY": {
             "description": "Cloudflare dns global api key",
-            "value": "api token"
+            "value": "21b6beafea8121dd4ca3f544468b7df962c5e"
         },
         "CADDYIndexPage": {
             "description": "After the custom CADDY deployment is completed, click on the display page of View，reference readme.md",
@@ -17,7 +17,7 @@
         },
         "ID": {
             "description": "VLESS ID, use uuid generator",
-            "value": "1309c705-61ff-47d3-bab9-67a377e403db"
+            "value": "85275803-688c-4550-890d-1c8616967770"
         }
     },
     "repository": "",
